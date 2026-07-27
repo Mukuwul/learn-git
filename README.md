@@ -7,3 +7,7 @@ branches, pull requests, issues, and merges.
 
 - `index.html` — sample page
 - `abe.js` — sample script
+
+## Usage
+
+Open `index.html` in a browser to see the sample page.
